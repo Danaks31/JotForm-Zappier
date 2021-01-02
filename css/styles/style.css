@@ -1,0 +1,12 @@
+img:hover {
+    transform: scale(1.1);
+    box-shadow: 5px 5px 15px 5px black;
+}
+img {
+    max-width: max-content;
+    max-height: max-content;
+    height: auto
+}
+body {
+    background-color: #34bf8367!important;
+}
